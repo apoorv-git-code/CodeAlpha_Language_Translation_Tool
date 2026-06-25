@@ -1,4 +1,4 @@
-# 🎀 Real-Time Language Translator
+# 🎀 Real-Time Language Translator📝
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/UI-Gradio-orange.svg)](https://gradio.app/)
