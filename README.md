@@ -1,4 +1,7 @@
-# 🤖 CodeAlpha Artificial Intelligence Projects 🚀
+# 📝 CodeAlpha Artificial Intelligence Projects 🚀
+<p align="center">
+ <img width="388" height="155" alt="image" src="https://github.com/user-attachments/assets/91739002-4442-4f75-a503-033c7a6d35f4" />
+</p> 
 
 Welcome to the **CodeAlpha_Artificial_Intelligence** repository! This repository serves as a centralized hub for various Artificial Intelligence and Computer Vision projects developed during the CodeAlpha internship. Each directory contains a standalone, fully functional AI application.
 
@@ -52,4 +55,5 @@ pip install -r requirements.txt
 ## 📝 License & Acknowledgments
 - Projects developed as part of the CodeAlpha Artificial Intelligence Internship program.
 - Powered by open-source libraries including OpenCV, Ultralytics (YOLOv8), and NumPy.
- 
+
+
